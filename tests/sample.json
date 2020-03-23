@@ -1,0 +1,7 @@
+[
+{ "first_name": "BLAKE", "last_name": "MCCLOSKY", "siblings": "3", "favourite_food": "Banana", "birth_timezone": "+06:00", "birth_timestamp": "223598517000" },
+{ "first_name": "DELORIS", "last_name": "SKOWRON", "siblings": "3", "favourite_food": "Pizza", "birth_timezone": "-04:00", "birth_timestamp": "915739620000" },
+{ "first_name": "CONCEPTION", "last_name": "KOSAKOWSKI", "siblings": "1", "favourite_food": "pizza", "birth_timezone": "-07:00", "birth_timestamp": "601102620000" },
+{ "first_name": "TAMMIE", "last_name": "GUERRIER", "siblings": "1", "favourite_food": "Cashew nuts", "birth_timezone": "+06:00", "birth_timestamp": "726219060000" },
+{ "first_name": "ANGELES", "last_name": "UREN", "siblings": "7", "favourite_food": "Cashew nuts", "birth_timezone": "-05:00", "birth_timestamp": "442609740000" }
+]
